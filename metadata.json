@@ -1,0 +1,6 @@
+{
+  "name": "Mohamed Awad — Digital Universe Birthday Experience",
+  "description": "A bespoke, multi-stage interactive digital universe birthday experience crafted for Mohamed Awad by Mohamed Farrag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
